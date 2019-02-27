@@ -1,7 +1,7 @@
 # PK_KING
 Peace-keeper King Apex
 
-和平守卫者卡枪宏
+和平捍卫者连喷宏
 
 由于罗技本身提供的不好用，所以另外写成了AutoHotKey
 
