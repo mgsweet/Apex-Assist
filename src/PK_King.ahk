@@ -13,7 +13,9 @@ myLock := 0
 		SendInput, {3}
 		Sleep, 50
 		SendInput, {2}
-		Sleep, 180
+		Sleep, 30
+		SendInput, {LControl}
+		Sleep, 200
 		KeyWait, LButton
 		myLock := 0
  	}
